@@ -17,4 +17,4 @@ Tengo 24 años, vivo en Argentina y hace poco aprendí a programar. Encontrarás
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title = "REACT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title = "SASS"/></code>
 
-#### Ten un día bonito♥
+#### Ten un bonito día♥
