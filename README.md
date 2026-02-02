@@ -2,7 +2,7 @@
 
 # Hola, soy Rocio 👋
 
-Tengo 26 años, vivo en Argentina y hace poco aprendí a programar. Encontrarás diferentes proyectos que he ido realizando.
+Vivo en Argentina y hace poco aprendí a programar. Encontrarás diferentes proyectos que he ido realizando.
 
 ## Puedes encontrarme y hablar conmigo a través de:
 - <a href="https://www.linkedin.com/in/rociibañez/" target="_blank"><img src="https://img.shields.io/badge/-Rociiba%C3%B1ez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rociiba%C3%B1ez/" alt="Linkedin"/></a>
